@@ -24,7 +24,7 @@
 * [Contact and mailing lists](#Contact-and-mailing-lists)
 
 
-## Introduction-DEV
+## Introduction-DEV2
 
 Zonemaster is a software package that validates the quality of a DNS delegation.
 The ambition of the Zonemaster project is to develop and maintain an open source
